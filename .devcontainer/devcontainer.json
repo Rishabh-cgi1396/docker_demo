@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.schema.json",
-  "name": "Docker Demo",
+  "name": "Docker",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   }

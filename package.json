@@ -1,7 +1,5 @@
 {
-  "$schema": "https://json.schemastore.org/package.json"
-}
-{  
+  "$schema": "https://json.schemastore.org/package.json",
   "name": "docker-demo",
   "version": "1.0.0",
   "description": "Simple Docker Demo App",
